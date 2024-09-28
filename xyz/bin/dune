@@ -1,0 +1,4 @@
+(executable
+ (public_name xyz)
+ (name  app)
+ (libraries  opium))
